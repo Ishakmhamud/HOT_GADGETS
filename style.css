@@ -1,0 +1,41 @@
+.navpad{
+    padding-left: 20px;
+    font-family: cursive;
+}
+.button{
+    
+    border: none;
+    padding: 10px;
+    color: whitesmoke;
+    background-color: black;
+    border-radius: 5px;
+   
+  
+    
+    
+} 
+.back-img{
+background-image: url(bg-1.png);
+background-repeat: no-repeat;
+background-position: center;
+background-size: contain;
+}
+.middle{
+    text-align: center;
+    
+}
+.card{
+    border: none;
+    box-shadow: 2px 2px 5px lightgray;
+    border-radius: 5px;
+    
+}
+.high{
+    margin: 50px;
+}
+.align{
+    margin-left: 120px;
+}
+.categories{
+    margin-top: 80px;
+}
